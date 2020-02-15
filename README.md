@@ -2,7 +2,7 @@
 BEDU Travels Project
 
 - [X] Finish
-- [ ] In Progress
+- [X] In Progress
 - [ ] Not Started
 
 # Usos correctos de la sintaxis
