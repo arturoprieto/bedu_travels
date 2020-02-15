@@ -1,7 +1,9 @@
 # bedu_travels
 BEDU Travels Project
 
-- Finish
+- [X] Finish
+- [ ] In Progress
+- [ ] Not Started
 
 # Usos correctos de la sintaxis
 ### Ejemplo de codigo
